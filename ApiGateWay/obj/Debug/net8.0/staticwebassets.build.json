@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Co78sUxg259kXahPvapRTH5v5fOcB1N6hC4vPzRKOG0=",
+  "Source": "ApiGateWay",
+  "BasePath": "_content/ApiGateWay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

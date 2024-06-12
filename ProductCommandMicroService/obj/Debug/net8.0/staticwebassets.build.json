@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E1rAFaQC6pGKB56tw5tKQrZvW+Z7MsWNm+ZRv3EKh7o=",
+  "Source": "ProductCommandMicroService",
+  "BasePath": "_content/ProductCommandMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

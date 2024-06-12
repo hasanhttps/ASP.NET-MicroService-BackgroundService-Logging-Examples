@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan\\source\\repos\\ASP.NET MicroService,BackgrounService,Logging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B7A8DC-D0A4-45E4-A7AF-54DF795DFD24}|ProductQueryMicroService\\ProductQueryMicroService.csproj|c:\\users\\hasan\\source\\repos\\asp.net microservice,backgrounservice,logging\\productquerymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B7A8DC-D0A4-45E4-A7AF-54DF795DFD24}|ProductQueryMicroService\\ProductQueryMicroService.csproj|solutionrelative:productquerymicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD390B20-85CC-42B1-9236-1EDD9A68663E}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\hasan\\source\\repos\\asp.net microservice,backgrounservice,logging\\productcommandmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD390B20-85CC-42B1-9236-1EDD9A68663E}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD390B20-85CC-42B1-9236-1EDD9A68663E}|ProductCommandMicroService\\ProductCommandMicroService.csproj|c:\\users\\hasan\\source\\repos\\asp.net microservice,backgrounservice,logging\\productcommandmicroservice\\backgroundservices\\datetimelogwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD390B20-85CC-42B1-9236-1EDD9A68663E}|ProductCommandMicroService\\ProductCommandMicroService.csproj|solutionrelative:productcommandmicroservice\\backgroundservices\\datetimelogwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\ASP.NET MicroService,BackgrounService,Logging\\ProductQueryMicroService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductQueryMicroService\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\ASP.NET MicroService,BackgrounService,Logging\\ProductQueryMicroService\\Program.cs",
+              "RelativeToolTip": "ProductQueryMicroService\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:46:13.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\ASP.NET MicroService,BackgrounService,Logging\\ProductCommandMicroService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\ASP.NET MicroService,BackgrounService,Logging\\ProductCommandMicroService\\Program.cs",
+              "RelativeToolTip": "ProductCommandMicroService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:29:05.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeLogWriter.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\ASP.NET MicroService,BackgrounService,Logging\\ProductCommandMicroService\\BackgroundServices\\DateTimeLogWriter.cs",
+              "RelativeDocumentMoniker": "ProductCommandMicroService\\BackgroundServices\\DateTimeLogWriter.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\ASP.NET MicroService,BackgrounService,Logging\\ProductCommandMicroService\\BackgroundServices\\DateTimeLogWriter.cs",
+              "RelativeToolTip": "ProductCommandMicroService\\BackgroundServices\\DateTimeLogWriter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:26:39.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

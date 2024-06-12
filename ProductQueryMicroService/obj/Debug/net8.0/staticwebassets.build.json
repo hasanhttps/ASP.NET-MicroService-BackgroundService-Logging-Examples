@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1O62FhCJloacXZLfSX1V4MW+bWKtQ6lb/3GFT2yeBJA=",
+  "Source": "ProductQueryMicroService",
+  "BasePath": "_content/ProductQueryMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
